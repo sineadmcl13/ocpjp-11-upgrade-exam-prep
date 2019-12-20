@@ -4,8 +4,8 @@ Every public class can be acccessed by any other public classes on the classpath
 As for the classpath, how do you know if all the required dependencies are there or if there are duplicate entries?
 
 Modular JAR files contain an additional module descriptor. 
-In this module descriptor, dependencies on other modules are expressed through requires statements. 
-Additionally, exports statements control which packages are accessible to other modules. 
+In this module descriptor, dependencies on other modules are expressed through __requires__ statements. 
+Additionally, __exports__ statements control which packages are accessible to other modules. 
 All non-exported packages are encapsulated in the module by default. 
 Here's an example of a module descriptor, which lives in `module-info.java`:
 
@@ -16,7 +16,7 @@ module api {
   requires server;
 }
 ```
-![modules package diagram](/notes/images/modules_package_diagram.png)
+![modules package diagram](../images/modules_package_diagram.png)
 
 Note that both modules contain packages that are encapsulated because they're not exported (visualized in red). 
 Nobody can accidentally use classes from those packages. 
