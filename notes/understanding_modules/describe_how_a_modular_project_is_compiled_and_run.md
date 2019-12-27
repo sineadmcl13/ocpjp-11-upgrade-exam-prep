@@ -40,5 +40,59 @@ As an example, a JAR file named `foo-bar.jar` will derive a module name `foo.bar
 A JAR file named `foo-bar-1.2.3-SNAPSHOT.jar` will derive a module name `foo.bar` and `1.2.3-SNAPSHOT` as the version
 
 #### Java command line options for modules
+A number of command line options for the `java` command have been added to support the module system at runtime
+. These include:
 
-//TODO 
+- `--module-path` or `(-p)`
+    - specifies the module paths. We nneed to provide one or more directories that will contain modules
+```shell script
+  java -p example.logging.jar;example-module -m module/example.client
+```
+
+- `--module-source-path`
+    - Specify where to find input source files for multiple directives.
+    - Assume `src` directory contains several modules directories :
+```
+src
++-- mod1
+    +-- module-info.class
++-- mod2
+    +-- module-info.class   
+```
+Then you can use
+```shell script
+javac --module-source-path src ...
+```
+- ` --describe-module` or `(-d)`
+    - Describe the module 
+```shell script
+java --describe-module java.base
+
+java.base@11.0.2
+exports java.io
+exports java.lang
+...
+```
+
+- `--add-modules`
+    - adds the listed modules to the default set of modules
+```shell script
+jlink --module-path modA;modB --add-modules MOD --output greeterapp 
+```
+
+- `--list-modules`
+    - List all observable modules in Java
+```shell script
+java --list-modules
+```
+
+- `--module {module-name}` or `(-m)` or `javac` compiler command 
+    - Compile only the specified module, check timestamps
+
+- ` --module {module}/{mainclass}` or `(-m)` for `java` interpreter command
+```shell script
+java -p service.jar;provider.jar;service-client -m modC/app.Client
+```
+
+> `--add-exports`, -`-add-opens`, `--add-modules`, `--add-reads`, and `--patch-module` are __NOT__ part of the Java 11
+> exam. 

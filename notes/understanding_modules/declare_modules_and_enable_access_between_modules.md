@@ -34,12 +34,16 @@ Consequently, when the module system encounters such a clause during module reso
  descriptors are processed and dependencies are resolved) it searches the universe of observable modules 
  (the modules in the JDK and on the module path) and throws an error if it doesn't find the module.
  
+[Code Example](/examples/requires_example) 
+ 
 #### Requires static
 A `requires static` clause expresses a dependency that is optional at run time. 
 That means at compile time the module system behaves exactly as described above. 
 At run time, on the other hand, it mostly ignores requires static clauses. 
 If it encounters one, it __does not resolve it__. 
 That means, if an observable module is only referenced with requires static, it does not make it into the module graph.
+
+[Code Example](/examples/requires_static_example) 
 
 > It is not allowed to have circular dependencies between modules. If module `A` requires moduleB, then module `B
 >` cannot also require module `A`.
@@ -64,7 +68,7 @@ module example.module {
 
 #### Exports
 
-By default, a module doesn’t expose any of its API to other modules. 
+By default, a module doesn't expose any of its API to other modules. 
 It must state which of its packages are accessible using the `exports` keyword. 
 For example the `example.module` used above exports a package called `example.client.api`
 
@@ -120,3 +124,7 @@ module example.module {
     opens example.client.api.internal to module1, module2, etc;
 }
 ```
+
+Modules visibility summary
+![Modules visibilty summary](../images/java-9-modules-visibility.png) 
+[Reference 7](../bibliography.md)

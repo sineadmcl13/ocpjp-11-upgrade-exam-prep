@@ -10,3 +10,5 @@ A list of sites and resources used to gather information and materials
 4. Docs.oracle.com. (2019). jlink. [online] Available at: https://docs.oracle.com/javase/9/tools/jlink.htm [Accessed 22
  Nov. 2019].
 5. Baeldung.com, 2019. [Online]. Available: https://www.baeldung.com/java-9-modularity. [Accessed: 02- Dec- 2019].
+6. "Reflection vs Encapsulation - blog@CodeFX", blog@CodeFX, 2019. [Online]. Available: https://blog.codefx.org/java/reflection-vs-encapsulation/. [Accessed: 23- Dec- 2019].
+7. "Java 9 Modules Cheat Sheet | Rebel", Jrebel.com, 2019. [Online]. Available: https://www.jrebel.com/blog/java-9-modules-cheat-sheet. [Accessed: 23- Dec- 2019].
