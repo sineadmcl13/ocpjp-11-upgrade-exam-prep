@@ -9,9 +9,9 @@ Exam 1Z0-817: Upgrade OCP Java 6, 7 &amp; 8 to Java SE 11 Developer Study Guide
    * [​Describe how a modular project is compiled and run​](notes/understanding_modules/describe_how_a_modular_project_is_compiled_and_run.md)
 
 2. [Services in a Modular Application](notes/services_in_a_modular_application)
-    * Describe the components of Services including directives
-    * Design a service type, load the services using ServiceLoader, check for dependencies of the services including
-   consumer module and provider module
+    * [Describe the components of Services including directives](/notes/services_in_a_modular_application/describe_the_components_of_services_including_directives.md)
+    * [Design a service type, load the services using ServiceLoader, check for dependencies of the services including
+   consumer module and provider module](/notes/services_in_a_modular_application/design_service_type_load_using_service_loader_check_for_dependencies.md)
 
 3. [Java Interfaces](notes/java_interfaces)
     * Create and use methods in interfaces
