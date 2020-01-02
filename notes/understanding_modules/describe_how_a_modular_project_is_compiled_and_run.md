@@ -44,7 +44,7 @@ A number of command line options for the `java` command have been added to suppo
 . These include:
 
 - `--module-path` or `(-p)`
-    - specifies the module paths. We nneed to provide one or more directories that will contain modules
+    - specifies the module paths. We need to provide one or more directories that will contain modules
 ```shell script
   java -p example.logging.jar;example-module -m module/example.client
 ```

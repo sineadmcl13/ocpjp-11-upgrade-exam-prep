@@ -14,8 +14,8 @@ Exam 1Z0-817: Upgrade OCP Java 6, 7 &amp; 8 to Java SE 11 Developer Study Guide
    consumer module and provider module](/notes/services_in_a_modular_application/design_service_type_load_using_service_loader_check_for_dependencies.md)
 
 3. [Java Interfaces](notes/java_interfaces)
-    * Create and use methods in interfaces
-    * Define and write functional interfaces
+    * [Create and use methods in interfaces](notes/java_interfaces/create_and_use_methods_in_interfaces.md)
+    * [Define and write functional interfaces](notes/java_interfaces/define_and_write_functional_interfaces.md)
 
 4. [Lambda Operations on Streams](notes/lambda_operations_on_streams)
     * Extract stream data using map, peek and flatMap methods
