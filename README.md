@@ -18,12 +18,12 @@ Exam 1Z0-817: Upgrade OCP Java 6, 7 &amp; 8 to Java SE 11 Developer Study Guide
     * [Define and write functional interfaces](notes/java_interfaces/define_and_write_functional_interfaces.md)
 
 4. [Lambda Operations on Streams](notes/lambda_operations_on_streams)
-    * Extract stream data using map, peek and flatMap methods
-    * Search stream data using search findFirst, findAny, anyMatch, allMatch and noneMatch methods
-    * Use the Optional class
-    * Perform calculations using count, max, min, average and sum stream operations
-    * Sort a collection using lambda expressions
-    * Use Collectors with streams, including the groupingBy and partitioningBy operation
+    * [Extract stream data using map, peek and flatMap methods](notes/lambda_operations_on_streams/extract_stream_data_using_map_peek_and_flatMap_methods.md)
+    * [Search stream data using search findFirst, findAny, anyMatch, allMatch and noneMatch methods](notes/lambda_operations_on_streams/search_stream_data_using_search_findFirst_findAny_anyMatch_allMatch_and_noneMatch_methods.md)
+    * [Use the Optional class](notes/lambda_operations_on_streams/use_the_optional_class.md)
+    * [Perform calculations using count, max, min, average and sum stream operations](notes/lambda_operations_on_streams/use_the_optional_class.md)
+    * [Sort a collection using lambda expressions](notes/lambda_operations_on_streams/sort_a_collection_using_lambda_expressions.md)
+    * [Use Collectors with streams, including the groupingBy and partitioningBy operation](notes/lambda_operations_on_streams/use_collectors_with_streams_including_the_groupingBy_and_partitioningBy_operation.md)
 
 5. [Java File I/O (NIO.2)](notes/java_file_io_nio2)
     * Use Path interface to operate on file and directory paths
