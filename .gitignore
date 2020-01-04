@@ -1,2 +1,4 @@
 *.idea
 *.iml
+/out
+/examples/services_in_a_modular_application/compiled-modules

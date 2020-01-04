@@ -26,8 +26,8 @@ Exam 1Z0-817: Upgrade OCP Java 6, 7 &amp; 8 to Java SE 11 Developer Study Guide
     * [Use Collectors with streams, including the groupingBy and partitioningBy operation](notes/lambda_operations_on_streams/use_collectors_with_streams_including_the_groupingBy_and_partitioningBy_operation.md)
 
 5. [Java File I/O (NIO.2)](notes/java_file_io_nio2)
-    * Use Path interface to operate on file and directory paths
-    * Use Files class to check, delete, copy or move a file or directory
+    * [Use Path interface to operate on file and directory paths](notes/java_file_io_nio2/use_path_interface_to_operate_on_file_and_directory_paths.md)
+    * [Use Files class to check, delete, copy or move a file or directory](/notes/java_file_io_nio2/use_files_class_to_check_delete_copy_or_move_a_file_or_directory.md)
     * Use Stream API with Files
 
 6. [Migration to a Modular Application](notes/migration_to_a_modular_application)
