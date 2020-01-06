@@ -28,7 +28,7 @@ Exam 1Z0-817: Upgrade OCP Java 6, 7 &amp; 8 to Java SE 11 Developer Study Guide
 5. [Java File I/O (NIO.2)](notes/java_file_io_nio2)
     * [Use Path interface to operate on file and directory paths](notes/java_file_io_nio2/use_path_interface_to_operate_on_file_and_directory_paths.md)
     * [Use Files class to check, delete, copy or move a file or directory](/notes/java_file_io_nio2/use_files_class_to_check_delete_copy_or_move_a_file_or_directory.md)
-    * Use Stream API with Files
+    * [Use Stream API with Files](/notes/java_file_io_nio2/use_stream_api_with_files.md)
 
 6. [Migration to a Modular Application](notes/migration_to_a_modular_application)
     * Migrate the application developed using a Java version prior to SE 9 to SE 11 including top-down and bottom-up

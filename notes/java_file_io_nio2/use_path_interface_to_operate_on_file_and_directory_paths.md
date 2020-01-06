@@ -164,4 +164,4 @@ System.out.println(newPath);
 //outputs /resources/README.txt
 ```
 
-[Code Samples](/examples/java_file_io_nio2/src/pathInterfaceExamples.java)
+[Code Samples](/examples/java_file_io_nio2/src/PathInterfaceExamples.java)

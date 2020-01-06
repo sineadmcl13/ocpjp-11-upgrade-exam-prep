@@ -11,7 +11,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.Arrays;
 
-public class filesClassExamples {
+public class FilesClassExamples {
 
   public static void main(String[] args) throws Exception {
     createAndReadFromFile();

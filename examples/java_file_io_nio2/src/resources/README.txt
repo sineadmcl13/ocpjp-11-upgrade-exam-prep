@@ -1,1 +1,0 @@
-A example file and some example text for usage in examples around the java IO NIO.2 topic

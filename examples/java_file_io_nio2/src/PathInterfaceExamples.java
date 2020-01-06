@@ -1,7 +1,7 @@
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
-public class pathInterfaceExamples {
+public class PathInterfaceExamples {
 
   public static void main(String[] args){
 

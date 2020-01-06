@@ -178,4 +178,4 @@ public static Path writeString(Path path, CharSequence csq, OpenOption... option
 public static Path writeString(Path path, CharSequence csq, Charset cs, OpenOption... options) throws IOException					
 ```
 
-[Code Samples](/examples/java_file_io_nio2/src/filesClassExamples.java)
+[Code Samples](/examples/java_file_io_nio2/src/FilesClassExamples.java)
