@@ -31,9 +31,9 @@ Exam 1Z0-817: Upgrade OCP Java 6, 7 &amp; 8 to Java SE 11 Developer Study Guide
     * [Use Stream API with Files](/notes/java_file_io_nio2/use_stream_api_with_files.md)
 
 6. [Migration to a Modular Application](notes/migration_to_a_modular_application)
-    * Migrate the application developed using a Java version prior to SE 9 to SE 11 including top-down and bottom-up
-  migration, splitting a Java SE 8 application into modules for migration
-    * Use jdeps to determine dependencies and identify way to address the cyclic dependencies
+    * [Migrate the application developed using a Java version prior to SE 9 to SE 11 including top-down and bottom-up
+  migration, splitting a Java SE 8 application into modules for migration](notes/migration_to_a_modular_application/migrate_application_to_java_11_using_top_down_and_bottom_up_migration.md)
+    * [Use jdeps to determine dependencies and identify way to address the cyclic dependencies](notes/migration_to_a_modular_application/use_jdeps_to_determine_dependencies_and_identify_way_to_address_the_cyclic_dependencies.md)
 
 7. [Local-Variable Type Inference](notes/local_variable_type_inference)
     * Use local-variable type inference
