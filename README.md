@@ -36,8 +36,8 @@ Exam 1Z0-817: Upgrade OCP Java 6, 7 &amp; 8 to Java SE 11 Developer Study Guide
     * [Use jdeps to determine dependencies and identify way to address the cyclic dependencies](notes/migration_to_a_modular_application/use_jdeps_to_determine_dependencies_and_identify_way_to_address_the_cyclic_dependencies.md)
 
 7. [Local-Variable Type Inference](notes/local_variable_type_inference)
-    * Use local-variable type inference
-    * Create and use lambda expressions with local-variable type inferred parameters
+    * [Use local-variable type inference](notes/local_variable_type_inference/use_local_variable_type_inference.md)
+    * [Create and use lambda expressions with local-variable type inferred parameters](notes/local_variable_type_inference/create_and_use_lambda_expressions_with_local_variable_type_inferred_parameters.md)
 
 8. [Lambda Expressions](notes/lambda_expressions)
     * Create and use lambda expressions
