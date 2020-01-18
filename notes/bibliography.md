@@ -15,3 +15,4 @@ A list of sites and resources used to gather information and materials
 8. "ServiceLoader (Java SE 11 & JDK 11 )", Docs.oracle.com, 2019. [Online]. Available: https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/ServiceLoader.html. [Accessed: 27- Dec- 2019].
 9. Tutorials.jenkov.com, 2020. [Online]. Available: http://tutorials.jenkov.com/java-nio/index.html. [Accessed: 04- Jan- 2020].
 10. "java.nio.file (Java SE 11 & JDK 11 )", Docs.oracle.com, 2020. [Online]. Available: https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/package-summary.html. [Accessed: 04- Jan- 2020].
+11. "Java 8 Functional Interfaces - When & How To Use Them?", Java Concept Of The Day, 2020. [Online]. Available: https://javaconceptoftheday.com/java-8-functional-interfaces/. [Accessed: 18- Jan- 2020].

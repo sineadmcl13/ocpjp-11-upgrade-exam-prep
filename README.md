@@ -40,9 +40,9 @@ Exam 1Z0-817: Upgrade OCP Java 6, 7 &amp; 8 to Java SE 11 Developer Study Guide
     * [Create and use lambda expressions with local-variable type inferred parameters](notes/local_variable_type_inference/create_and_use_lambda_expressions_with_local_variable_type_inferred_parameters.md)
 
 8. [Lambda Expressions](notes/lambda_expressions)
-    * Create and use lambda expressions
-    * Use lambda expressions and method references
-    * Use built-in functional interfaces including Predicate, Consumer, Function, and Supplier
+    * [Create and use lambda expressions](/notes/lambda_expressions/create_and_use_lambda_expressions.md)
+    * [Use lambda expressions and method references](/notes/lambda_expressions/use_lambda_expressions_and_method_references.md)
+    * [Use built-in functional interfaces including Predicate, Consumer, Function, and Supplier](notes/lambda_expressions/use_built-in_functional_interfaces_including_predicate_consumer_function_and_supplier.md)
     * Use primitive and binary variations of base interfaces of java.util.function package
 
 9. [Parallel Streams](notes/parallel_streams)

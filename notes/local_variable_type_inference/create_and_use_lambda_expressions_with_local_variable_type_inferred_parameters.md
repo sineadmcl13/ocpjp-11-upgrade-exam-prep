@@ -32,3 +32,5 @@ BiFunction<String, String, String> lc = (var a, String b) -> a + b;
 ```java
 UnaryOperator<String> unOp = var s -> s.toLowerCase();
 ```
+
+[Code Samples for Local Variable Usage and Lambdas](/examples/local_variable_type_inference/src/LambdaExpressionsWithVarExamples.java)
