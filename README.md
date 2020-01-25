@@ -43,11 +43,11 @@ Exam 1Z0-817: Upgrade OCP Java 6, 7 &amp; 8 to Java SE 11 Developer Study Guide
     * [Create and use lambda expressions](/notes/lambda_expressions/create_and_use_lambda_expressions.md)
     * [Use lambda expressions and method references](/notes/lambda_expressions/use_lambda_expressions_and_method_references.md)
     * [Use built-in functional interfaces including Predicate, Consumer, Function, and Supplier](notes/lambda_expressions/use_built-in_functional_interfaces_including_predicate_consumer_function_and_supplier.md)
-    * Use primitive and binary variations of base interfaces of java.util.function package
+    * [Use primitive and binary variations of base interfaces of java.util.function package](notes/lambda_expressions/use_primitive_and_binary_variations_of_base_interfaces_of_java_util_function_package.md)
 
 9. [Parallel Streams](notes/parallel_streams)
-    * Develop the code that use parallel streams
-    * Implement decomposition and reduction with streams
+    * [Develop the code that use parallel streams](notes/parallel_streams/develop_the_code_that_use_parallel_streams.md)
+    * [Implement decomposition and reduction with streams](notes/parallel_streams/implement_decomposition_and_reduction_with_streams.md)
 
 10. [Language Enhancements](notes/language_enhancements)
     * Use try-with-resources construct
