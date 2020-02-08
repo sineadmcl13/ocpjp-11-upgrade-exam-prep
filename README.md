@@ -50,8 +50,8 @@ Exam 1Z0-817: Upgrade OCP Java 6, 7 &amp; 8 to Java SE 11 Developer Study Guide
     * [Implement decomposition and reduction with streams](notes/parallel_streams/implement_decomposition_and_reduction_with_streams.md)
 
 10. [Language Enhancements](notes/language_enhancements)
-    * Use try-with-resources construct
-    * Develop code that handles multiple Exception types in a single catch block
+    * [Use try-with-resources construct](notes/language_enhancements/use_try_with_resources_construct.md)
+    * [Develop code that handles multiple Exception types in a single catch block](notes/language_enhancements/develop_code_that_handles_multiple_exception_types_in_a_single_catch_block.md)
     
 [Exam Information](notes/exam_information.md)
 

@@ -16,3 +16,4 @@ A list of sites and resources used to gather information and materials
 9. Tutorials.jenkov.com, 2020. [Online]. Available: http://tutorials.jenkov.com/java-nio/index.html. [Accessed: 04- Jan- 2020].
 10. "java.nio.file (Java SE 11 & JDK 11 )", Docs.oracle.com, 2020. [Online]. Available: https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/package-summary.html. [Accessed: 04- Jan- 2020].
 11. "Java 8 Functional Interfaces - When & How To Use Them?", Java Concept Of The Day, 2020. [Online]. Available: https://javaconceptoftheday.com/java-8-functional-interfaces/. [Accessed: 18- Jan- 2020].
+12. "Java Language Updates", Oracle Help Center, 2020. [Online]. Available: https://docs.oracle.com/en/java/javase/11/language/index.html#JSLAN-GUID-8693D1DF-3DE3-4588-ABA8-397C65B4169A. [Accessed: 08- Feb- 2020].
