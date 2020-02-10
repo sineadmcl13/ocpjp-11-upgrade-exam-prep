@@ -70,7 +70,7 @@ s.flatMap(names -> names.stream()).forEach(System.out::println);
 ```
 [Code Sample](/examples/lambda_operations_on_streams/src/streamFlatMapExample.java)
 
-The `flatMap(...)` transforsm wach element of a stream into another form (just like `map(...)`) and generates 
+The `flatMap(...)` transforms each element of a stream into another form (just like `map(...)`) and generates 
 sub-streams of the newly formed elements. Finally its flattens all of the sub-streams into a single stream of elements.
 As the `flatMap(...)` is a map type of function, it also takes a function and applies that function to each element in 
 the stream
@@ -78,7 +78,7 @@ the stream
 The difference between `map(...)` and `flatMap(...)` is:
 - The `map(...)` accepts a function that returns a mapped element and the the `map(...)` function returns a stream of 
   such elements (1 to 1).
-- The `flatMAp(...)` accepts a function that returns streams of the mapped elements and then the `flatMAp(...)` finally 
-  retuns a collective stream of all of the sub-streams that are created by each execution of the passed function 
+- The `flatMap(...)` accepts a function that returns streams of the mapped elements and then the `flatMap(...)` finally 
+  returns a collective stream of all of the sub-streams that are created by each execution of the passed function 
   (1 to 0...n).
   

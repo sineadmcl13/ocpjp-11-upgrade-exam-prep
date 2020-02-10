@@ -126,5 +126,5 @@ module example.module {
 ```
 
 Modules visibility summary
-![Modules visibilty summary](../images/java-9-modules-visibility.png) 
+![Modules visibility summary](../images/java-9-modules-visibility.png) 
 [Reference 7](../bibliography.md)

@@ -1,6 +1,6 @@
 ### Use Files class to check, delete, copy or move a file or directory
 
-The `java.nio.file.Files` class consists of static methods that use `PAth` objects to work with files and directories.
+The `java.nio.file.Files` class consists of static methods that use `Path` objects to work with files and directories.
 
 All methods that access the file system can throw a `java.io.IOException` and many specific exceptions extend 
 `FileSystemException`. This class has some useful methods that return the file involved, the detailed message string 
@@ -41,7 +41,7 @@ Files.move(Path source, Path target, CopyOption... options);
 The available `StandardCopyOptions` enums available are:
  - `StandardCopyOPtion.REPLACE_EXISTING`
  
-    Performs the move even when the target file already exists. IF the target is a symbolic link, the symbolic link 
+    Performs the move even when the target file already exists. If the target is a symbolic link, the symbolic link 
     is replaced but what is points to is not affected
     
   - `StandardCopyOption.ATOMIC_MOVE`
