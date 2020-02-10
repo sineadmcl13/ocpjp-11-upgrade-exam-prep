@@ -4,7 +4,7 @@ Exam 1Z0-817: Upgrade OCP Java 6, 7 &amp; 8 to Java SE 11 Developer Study Guide
 #### Exam Topics
 
 1. ​[Understanding Modules​](notes/understanding_modules)
-   * [Describe the Modular JDK​](notes/understanding_modules/describe_the_modular_jdk.md)
+   * [Describe the Modular JDK​](notes/understanding_modules/describe_the_modular_jdk​.md)
    * [​Declare modules and enable access between modules​](notes/understanding_modules/declare_modules_and_enable_access_between_modules.md)
    * [​Describe how a modular project is compiled and run​](notes/understanding_modules/describe_how_a_modular_project_is_compiled_and_run.md)
 
