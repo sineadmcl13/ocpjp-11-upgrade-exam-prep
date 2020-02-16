@@ -65,3 +65,6 @@ of the optional before finally flattening the stream of streams to produce a str
 with a value
 
 [Code Samples](/examples/lambda_operations_on_streams/src/optionalExamples.java)
+
+| [Previous](search_stream_data_using_search_findFirst_findAny_anyMatch_allMatch_and_noneMatch_methods.md) | [Next](perform_calculations_using_count_max_min_average_and_sum_stream_operations.md) |
+| :--------- | ----------: | 

@@ -82,3 +82,5 @@ The difference between `map(...)` and `flatMap(...)` is:
   returns a collective stream of all of the sub-streams that are created by each execution of the passed function 
   (1 to 0...n).
   
+| [Previous](README.md) | [Next](search_stream_data_using_search_findFirst_findAny_anyMatch_allMatch_and_noneMatch_methods.md) |
+| :--------- | ----------: | 

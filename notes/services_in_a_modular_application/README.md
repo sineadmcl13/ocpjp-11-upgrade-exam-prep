@@ -15,3 +15,6 @@ A provider module declares what implementations of service interfaces it provide
 The module that discovers and loads service providers must contain a `uses` directive in its declaration. 
 
 [ServiceLoader javadoc](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/ServiceLoader.html)
+
+| [Previous](../understanding_modules/describe_how_a_modular_project_is_compiled_and_run.md) | [Next](describe_the_components_of_services_including_directives.md) |
+| :--------- | ----------: | 

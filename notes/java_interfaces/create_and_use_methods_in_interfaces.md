@@ -214,3 +214,6 @@ public interface Greeting {
 } 
 ```
 [Code Sample](/examples/java_interfaces/src/interface_examples/PrivateStaticMethodInterfaceExample.java)
+
+| [Previous](README.md) | [Next](define_and_write_functional_interfaces.md) |
+| :--------- | ----------: | 

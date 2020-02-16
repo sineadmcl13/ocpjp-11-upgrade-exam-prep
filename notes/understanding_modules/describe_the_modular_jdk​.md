@@ -60,3 +60,6 @@ jlink --module-path $JAVA_HOME/jmods:mlib --add-modules com.greetings --output g
 
 The `-–add-modules` option defines a comma separated list of modules to include in the new JRE.
 The `-–output` option defines the target directory where our custom JRE should be generated.
+
+| [Previous](README.md) | [Next](declare_modules_and_enable_access_between_modules.md) |
+| :--------- | ----------: |

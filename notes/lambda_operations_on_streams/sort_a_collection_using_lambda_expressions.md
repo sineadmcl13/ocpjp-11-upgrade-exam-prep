@@ -57,3 +57,6 @@ System.out.print(emps);
 If the objects in the list do not implement `Comparable`, you should provide your own `Comparator`
 
 [Code Samples](/examples/lambda_operations_on_streams/src/sortingCollectionsExamples.java)
+
+| [Previous](perform_calculations_using_count_max_min_average_and_sum_stream_operations.md) | [Next](use_collectors_with_streams_including_the_groupingBy_and_partitioningBy_operation.md) |
+| :--------- | ----------: | 

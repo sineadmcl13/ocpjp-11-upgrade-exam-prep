@@ -50,3 +50,5 @@ Running the following command will list the dependencies of the service modules
 ```shell script
 jar --describe-module --file=module.jar
 ```
+| [Previous](describe_the_components_of_services_including_directives.md) | [Next](../java_interfaces) |
+| :--------- | ----------: | 

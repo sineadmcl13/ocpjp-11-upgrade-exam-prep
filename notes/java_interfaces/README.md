@@ -12,3 +12,6 @@ the supplier of a service and the classes that want their objects to be usable w
 - An interface can contain private methods that cannot be called or overridden by implementing classes
 - A functional interface is an interface with a single abstract method
 - Lambda expressions are converted to functional interfaces
+
+| [Previous](../services_in_a_modular_application/design_service_type_load_using_service_loader_check_for_dependencies.md) | [Next](create_and_use_methods_in_interfaces.md) |
+| :--------- | ----------: | 

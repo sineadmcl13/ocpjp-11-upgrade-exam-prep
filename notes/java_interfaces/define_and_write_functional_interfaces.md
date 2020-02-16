@@ -78,3 +78,6 @@ public interface IFoo {
 }
 ```
 [Code Sample](/examples/java_interfaces/src/functional_interface_examples/FunctionInterfaceWithJavaLangObjectMethods.java)
+
+| [Previous](create_and_use_methods_in_interfaces.md) | [Next](../lambda_operations_on_streams) |
+| :--------- | ----------: | 

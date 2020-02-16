@@ -15,3 +15,5 @@ would require proper planning and implementation. The Java team has suggested tw
   - Top-down migration
 
 
+| [Previous](../java_file_io_nio2/use_stream_api_with_files.md) | [Next](migrate_application_to_java_11_using_top_down_and_bottom_up_migration.md) |
+| :--------- | ----------: | 

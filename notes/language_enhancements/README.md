@@ -25,5 +25,5 @@ Private interface methods are supported.
 Private interface methods are supported. This support allows non-abstract methods of an interface to share code 
 between them. See [Create and use methods in interfaces](../java_interfaces/create_and_use_methods_in_interfaces.md)
 
-
-
+| [Previous](../parallel_streams/implement_decomposition_and_reduction_with_streams.md) | [Next](use_try_with_resources_construct.md) |
+| :--------- | ----------: | 

@@ -53,3 +53,6 @@ Function
 Integer i = 110;
 Supplier<String> s1 = i::toString;
 ```
+
+| [Previous](create_and_use_lambda_expressions.md) | [Next](use_built-in_functional_interfaces_including_predicate_consumer_function_and_supplier.md) |
+| :--------- | ----------: | 

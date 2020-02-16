@@ -155,3 +155,6 @@ public static void main(String[] args){
 ```
 
 [Code Samples of Illegal Var Usage](/examples/local_variable_type_inference/src/LegalTypeInferenceExamples.java)
+
+| [Previous](README.md) | [Next](create_and_use_lambda_expressions_with_local_variable_type_inferred_parameters.md) |
+| :--------- | ----------: | 

@@ -89,3 +89,6 @@ try (br) {
     System.out.println(s);
 }
 ```
+
+| [Previous](README.md) | [Next](develop_code_that_handles_multiple_exception_types_in_a_single_catch_block.md) |
+| :--------- | ----------: | 

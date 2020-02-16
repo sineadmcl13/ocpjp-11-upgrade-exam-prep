@@ -128,3 +128,6 @@ module example.module {
 Modules visibility summary
 ![Modules visibility summary](../images/java-9-modules-visibility.png) 
 [Reference 7](../bibliography.md)
+
+| [Previous](describe_the_modular_jdk​.md) | [Next](describe_how_a_modular_project_is_compiled_and_run.md) |
+| :--------- | ----------: |

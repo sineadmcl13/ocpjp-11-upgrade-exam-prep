@@ -51,3 +51,6 @@ Integer sum = numbers.stream().reduce(0,
     (part1, part2) -> part1 + part2);     // combine two partial results
 System.out.print("Sum of all integers in the stream : " + sum);
 ```
+
+| [Previous](develop_the_code_that_use_parallel_streams.md) | [Next](../language_enhancements) |
+| :--------- | ----------: | 

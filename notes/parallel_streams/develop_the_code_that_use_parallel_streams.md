@@ -29,3 +29,6 @@ System.out.println(Arrays.toString(shortWords));
 
 The function passed to the `forEach()` runs concurrently in multiple threads, each updating a shared array. If you run 
 this program multiple times, you will a different sequence of counts in each run
+
+| [Previous](README.md) | [Next](implement_decomposition_and_reduction_with_streams.md) |
+| :--------- | ----------: | 

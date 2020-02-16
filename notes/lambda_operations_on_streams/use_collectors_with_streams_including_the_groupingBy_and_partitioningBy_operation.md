@@ -63,3 +63,6 @@ System.out.println(map);
 ```
 
 [Code Samples](/examples/lambda_operations_on_streams/src/collectorsWithStreamExamples.java)
+
+| [Previous](sort_a_collection_using_lambda_expressions.md) | [Next](../java_file_io_nio2) |
+| :--------- | ----------: | 

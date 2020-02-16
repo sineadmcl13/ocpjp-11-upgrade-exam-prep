@@ -36,3 +36,6 @@ parameter list
 
 If a catch clause lists more than one exception type, as shown in the example above, the catch parameter is implicitly 
 final. So from the example above `ex` is final can therefore you cannot assign any values to it within the catch block
+
+| [Previous](use_try_with_resources_construct.md) | [Next](../bibliography.md) |
+| :--------- | ----------: | 

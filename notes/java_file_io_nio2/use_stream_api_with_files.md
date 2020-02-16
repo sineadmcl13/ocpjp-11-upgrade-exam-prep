@@ -98,3 +98,6 @@ try {
 }
 ```
 [Code Sample](/examples/java_file_io_nio2/src/FileReadAllLinesExample.java)
+
+| [Previous](use_files_class_to_check_delete_copy_or_move_a_file_or_directory.md) | [Next](../migration_to_a_modular_application) |
+| :--------- | ----------: | 

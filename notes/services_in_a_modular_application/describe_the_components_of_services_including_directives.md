@@ -70,3 +70,6 @@ Iterable<anInterface> services = ServiceLoader.load(anInterface.class);
 ```
 
 [Code Examples for Service modules](/examples/services_in_a_modular_application)
+
+| [Previous](README.md) | [Next](design_service_type_load_using_service_loader_check_for_dependencies.md) |
+| :--------- | ----------: | 

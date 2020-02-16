@@ -11,3 +11,6 @@ required for the exam
 
 ![Function Interfaces and Specialized Primitive versions](../images/functionalInterfaces.png)
 [Reference 11](../bibliography.md)
+
+| [Previous](use_built-in_functional_interfaces_including_predicate_consumer_function_and_supplier.md) | [Next](../parallel_streams) |
+| :--------- | ----------: | 

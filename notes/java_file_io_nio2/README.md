@@ -20,4 +20,5 @@ Java NIO contains the concept of "selectors". A selector is an object that can m
 (like: connections opened, data arrived etc). Thus a single thread can monitor multiple channels for data
 
 
-  
+| [Previous](../lambda_operations_on_streams/use_collectors_with_streams_including_the_groupingBy_and_partitioningBy_operation.md) | [Next](use_path_interface_to_operate_on_file_and_directory_paths.md) |
+| :--------- | ----------: | 

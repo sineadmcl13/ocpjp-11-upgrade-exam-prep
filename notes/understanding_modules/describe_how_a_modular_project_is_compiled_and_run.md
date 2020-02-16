@@ -95,4 +95,7 @@ java -p service.jar;provider.jar;service-client -m modC/app.Client
 ```
 
 > `--add-exports`, -`-add-opens`, `--add-modules`, `--add-reads`, and `--patch-module` are __NOT__ part of the Java 11
-> exam. 
+> exam.
+
+| [Previous](declare_modules_and_enable_access_between_modules.md) | [Next](../services_in_a_modular_application) |
+| :--------- | ----------: | 

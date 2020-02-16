@@ -117,3 +117,6 @@ public class Predicate<T> {
 | LongPredicate        | 1 long     | boolean     | test                   |
 
 [Code Sample](/examples/lambda_expressions/src/PredicateInterfaceExamples.java)
+
+| [Previous](use_lambda_expressions_and_method_references.md) | [Next](use_primitive_and_binary_variations_of_base_interfaces_of_java_util_function_package.md) |
+| :--------- | ----------: | 

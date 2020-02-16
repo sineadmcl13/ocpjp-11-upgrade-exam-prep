@@ -25,3 +25,6 @@ The Java platform itself has been modularized using its own module system as wel
 The two main advantages of the modular system are:
 1. Strong encapsulation: You can control which of your packages are accessible, and you don't have to worry about maintaining code that you didn't intend for public consumption.
 2. Reliable configuration: You avoid common class path problems such as duplicate or missing classes.
+
+| [Previous](../../README.md) | [Next](describe_the_modular_jdk​.md) |
+| :--------- | ----------: | 

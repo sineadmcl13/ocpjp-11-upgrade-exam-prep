@@ -79,3 +79,6 @@ module modB {
   requires modC;
 }
 ```
+
+| [Previous](migrate_application_to_java_11_using_top_down_and_bottom_up_migration.md) | [Next](../local_variable_type_inference) |
+| :--------- | ----------: | 

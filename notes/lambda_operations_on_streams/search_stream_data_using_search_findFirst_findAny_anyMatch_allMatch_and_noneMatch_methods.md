@@ -91,3 +91,6 @@ System.out.println(none6CharsLong);
 In relation to streams, operations `anyMatch(...)`, `allMatch(...)`, `noneMatch(...)`, `findFirst()`, and `findAny()` 
 do not need to process the whole stream to produce a result. 
 As soon as an element is found, a result can be produced. These are short-circuiting terminal operations.
+
+| [Previous](extract_stream_data_using_map_peek_and_flatMap_methods.md) | [Next](use_the_optional_class.md) |
+| :--------- | ----------: | 

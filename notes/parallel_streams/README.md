@@ -11,3 +11,6 @@ default Stream<E> parallelStream() {
 }
 ```
 
+| [Previous](../lambda_expressions/use_primitive_and_binary_variations_of_base_interfaces_of_java_util_function_package.md) | [Next](develop_the_code_that_use_parallel_streams.md) |
+| :--------- | ----------: | 
+

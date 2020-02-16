@@ -51,3 +51,6 @@ int sum = stream.sum();
 ```
 
 [Code Samples](/examples/lambda_operations_on_streams/src/calculationExamples.java)
+
+| [Previous](use_the_optional_class.md) | [Next](sort_a_collection_using_lambda_expressions.md) |
+| :--------- | ----------: | 

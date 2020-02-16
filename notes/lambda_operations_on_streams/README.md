@@ -48,3 +48,6 @@ List<String> names = Arrays.asList("John", "Mike", "Mark", "Paul");
     
     filtered.forEach(n -> System.out.println(n));
 ```
+
+| [Previous](../java_interfaces/define_and_write_functional_interfaces.md) | [Next](extract_stream_data_using_map_peek_and_flatMap_methods.md) |
+| :--------- | ----------: | 

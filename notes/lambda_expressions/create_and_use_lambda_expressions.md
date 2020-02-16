@@ -133,3 +133,6 @@ public class DoubleFunction<R> {
   R apply(double d);
 }
 ```
+
+| [Previous](README.md) | [Next](use_lambda_expressions_and_method_references.md) |
+| :--------- | ----------: | 

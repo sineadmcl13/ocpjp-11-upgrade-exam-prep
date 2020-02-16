@@ -179,3 +179,6 @@ public static Path writeString(Path path, CharSequence csq, Charset cs, OpenOpti
 ```
 
 [Code Samples](/examples/java_file_io_nio2/src/FilesClassExamples.java)
+
+| [Previous](use_path_interface_to_operate_on_file_and_directory_paths.md) | [Next](use_stream_api_with_files.md) |
+| :--------- | ----------: | 

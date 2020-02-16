@@ -30,3 +30,6 @@ In Java 11 the local variable type inference was extended for lambda parameters
 The `var` __IS NOT__ a keyword. Instead, it is a reserved type name. This means that existing code that uses var as a 
 variable, method, or package name __WILL NOT__ be affected. 
 Existing code that uses `var` as a class or interface name __WILL__ be affected. 
+
+| [Previous](../migration_to_a_modular_application/use_jdeps_to_determine_dependencies_and_identify_way_to_address_the_cyclic_dependencies.md) | [Next](use_local_variable_type_inference.md) |
+| :--------- | ----------: | 

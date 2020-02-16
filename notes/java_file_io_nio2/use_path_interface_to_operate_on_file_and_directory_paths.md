@@ -165,3 +165,6 @@ System.out.println(newPath);
 ```
 
 [Code Samples](/examples/java_file_io_nio2/src/PathInterfaceExamples.java)
+
+| [Previous](README.md) | [Next](use_files_class_to_check_delete_copy_or_move_a_file_or_directory.md) |
+| :--------- | ----------: | 
