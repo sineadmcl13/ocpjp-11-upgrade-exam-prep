@@ -1,7 +1,7 @@
 ### Design a service type, load the services using ServiceLoader, check for dependencies of the services including consumer module and provider module
 
 #### Designing services
-A service is a single type, usually an interface or abstract class. THhe type may have nay accessibility. The API
+A service is a single type, usually an interface or abstract class. The type may have any accessibility. The API
  specification gives 2 general guidelines for design
  
  - A service should declare as many methods as needed to allow service providers to communicate their domain-specific
