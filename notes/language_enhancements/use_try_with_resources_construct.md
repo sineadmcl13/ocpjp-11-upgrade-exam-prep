@@ -56,7 +56,7 @@ In Java 7 and 8 the `AutoClosable` resources must be declared and initialized in
 try-with-resources statement:
 
 ```java
-try (BufferedReader br = new BufferedREader(new FileReader(file));) {
+try (BufferedReader br = new BufferedReader(new FileReader(file));) {
   String s = br.readLine();
   System.out.println();
 }
@@ -65,7 +65,7 @@ In Java 9 you are not required to declare a new local variable and initialise it
 already declared and opened outside the try-with-resources statement, then you can write the variable name pointing to 
 resource inside the try block and it will be eligible for automatic resource management
 ```java
-BufferedReader br = new BufferedREader(new FileReader(file));
+BufferedReader br = new BufferedReader(new FileReader(file));
 try (br) {
   String s = br.readLine();
   System.out.println();
